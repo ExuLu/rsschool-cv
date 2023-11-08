@@ -97,3 +97,8 @@ _More code examples you can see on my [GitHub](https://github.com/ExuLu)_
   09/2015-03/2018
 
 ### Languages
+
+- **English:** Upper-intermediate level
+- **Belarusian:** Native speaker
+- **Russian:** Native speaker
+- **Spanish:** Beginner/Elementary level
