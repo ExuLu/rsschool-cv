@@ -59,13 +59,13 @@ _More code examples you can see on my [GitHub](https://github.com/ExuLu)_
 
 ### Projects and Courses
 
-* **The Ultimate React Course** (Georgia, Tbilisi) - React Frontend Developer 11/2023 - (in progress)
+- **The Ultimate React Course** (Georgia, Tbilisi) - React Frontend Developer 11/2023 - (in progress)
 
   - web development with React, using hooks as useState, useEffect and custom hooks, external libraries and APIs
   - create [Eat&Split](https://delightful-faloodeh-a5eecd.netlify.app/) app for split bill with friends, using React hooks
   - create [Weather](https://lucky-maamoul-9c3017.netlify.app/) app using previous React syntax with Classes and weather API
 
-* **Web Development Bootcamp** (Georgia, Tbilisi) — Web Developer
+- **Web Development Bootcamp** (Georgia, Tbilisi) — Web Developer
   08/2023 - 10/2023
 
   - web development with pure HTML, CSS and Bootstrap
@@ -76,12 +76,20 @@ _More code examples you can see on my [GitHub](https://github.com/ExuLu)_
   - development of [Secrets](https://secrets-ivlb.onrender.com/) web application using security instruments as Passport.js (to - realize Open Authorization standard), sessions, hashing; implementing Google and Facebook strategies for authorization
   - development of [Keeper](https://exulu-keeper-demo.netlify.app/) website using React framework and Material UI library
 
-* **JavaScript Core Course** (Georgia, Tbilisi) — JavaScript Developer
+- **JavaScript Core Course** (Georgia, Tbilisi) — JavaScript Developer
   05/2023 – 08/2023
   - [Mapty](https://inquisitive-babka-58ac42.netlify.app/) - this app allows you log your running or cycling workouts and tag them on the map; developed with JavaScript, DOM, open source API ([Leaflet](https://leafletjs.com/reference.html)), using OOP approach
   - [Forkify](https://forkify-exulu.netlify.app/) - this app has a lot of different recipes which you can find by keywords and allows you to add your own dishes; developed with JavaScript, DOM, restful API, external libraries, using OOP approach and MVC pattern
   - work with built-in and external libraries using asynchronous JS (Promises, Async/Await, Axious, AJAX)
     implement branching strategies using Git
+- **ELTeam Group LLC, Freelances** (Belarus, Minsk) — Copywriter, Content Manager
+  12/2017 – 05/2023
+  - work within SDLC using Agile+Scrum and OKR methodology
+  - cooperation with front-end and back-end developers working on the main website of the company
+  - database structure design and their fulfillment with administration tools
+  - workflow management using Jira task board
+  - assign tasks to performers on a regular basis
+  - manual QA within company products lifecycle
 
 ### Education
 
