@@ -1,6 +1,6 @@
 # Alena Sharai
 
-### Junior Frontend developer
+### Junior Fullstack developer
 
 ### Contact Information
 
@@ -12,6 +12,6 @@
 
 ### Work Experience
 
-### Courses
+### Education
 
 ### Languages
