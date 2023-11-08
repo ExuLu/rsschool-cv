@@ -17,6 +17,12 @@ And, you know:
 > "With great power comes great responsibility." © Uncle Ben
 
 ### My Skills
+- HTML, CSS
+- JavaScript
+- Git, GitHub
+- Node.js, Express.js
+- MongoDB
+- React
 
 ### Code Examples
 
