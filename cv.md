@@ -93,4 +93,7 @@ _More code examples you can see on my [GitHub](https://github.com/ExuLu)_
 
 ### Education
 
+- **Belarusian State University** (Belarus, Minsk) — Incomplete Bachelor’s Degree in Biotechnologies and Microbiology
+  09/2015-03/2018
+
 ### Languages
